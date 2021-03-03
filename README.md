@@ -1,4 +1,2 @@
-Build With Tailwind
-
 Preview 
-[https://bahrul-rozak.github.io/social-Link/]
+https://bahrul-rozak.github.io/social-Link/
